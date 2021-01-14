@@ -17,7 +17,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            FIB Calculator V2.1. - Learn React Tagged version
+            FIB Calculator V2.1. - KUBERNETES Branched version
           </a>
           <Link to="/">Home</Link>
           <Link to="/otherpage">Other Page</Link>
